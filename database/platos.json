@@ -25,5 +25,12 @@
         "detalle" : "Espárragos blancos con vinagreta de verduras y jamón ibérico",
         "precio" : "U$S 37.50",
         "imagen" : "esparragos.png"
+    },
+    {
+        "id" : 5,
+        "nombre" : "Milanesas con papas fritas",
+        "detalle" : "",
+        "precio" : "U$S 20.50",
+        "imagen" : "menu.jpg"
     }
 ]

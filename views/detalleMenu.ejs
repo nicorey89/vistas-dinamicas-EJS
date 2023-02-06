@@ -13,7 +13,7 @@
         <div class="ps-col l6 ps-padding-large">
           <h1 class="ps-center"><%- plato.nombre %></h1>
           <br />
-          <h4><%- plato.detalle %></h4>
+          <h4><%- plato.detalle ? plato.detalle : 'plato tipico' %></h4>
           <p class="ps-text-grey">
             <%- plato.precio %>
           </p>
